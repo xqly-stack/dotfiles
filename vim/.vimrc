@@ -26,3 +26,9 @@ nnoremap ,html :-1read $HOME/.vim/.skeleton.html<CR>3jwf>a
 " --- Build Integration ---
 " Configure :make to run RSpec with the Quickfix formatter
 set makeprg=bundle\ exec\ rspec\ -f\ QuickfixFormatter
+
+
+
+"Basic setup
+set relativenumber
+
