@@ -11,6 +11,14 @@ tikz
 flowchart
 bussproofs
 mathpartir
+biblatex
+geometry
+booktabs
+enumitem
+biblatex
+geometry
+booktabs
+enumitem
 
 
 
